@@ -1,0 +1,13 @@
+C:\repo\Exercicio 1 - Meses\bin\Debug\netcoreapp3.1\Exercicio 1 - Meses.exe
+C:\repo\Exercicio 1 - Meses\bin\Debug\netcoreapp3.1\Exercicio 1 - Meses.deps.json
+C:\repo\Exercicio 1 - Meses\bin\Debug\netcoreapp3.1\Exercicio 1 - Meses.runtimeconfig.json
+C:\repo\Exercicio 1 - Meses\bin\Debug\netcoreapp3.1\Exercicio 1 - Meses.runtimeconfig.dev.json
+C:\repo\Exercicio 1 - Meses\bin\Debug\netcoreapp3.1\Exercicio 1 - Meses.dll
+C:\repo\Exercicio 1 - Meses\bin\Debug\netcoreapp3.1\Exercicio 1 - Meses.pdb
+C:\repo\Exercicio 1 - Meses\obj\Debug\netcoreapp3.1\Exercicio 1 - Meses.csprojAssemblyReference.cache
+C:\repo\Exercicio 1 - Meses\obj\Debug\netcoreapp3.1\Exercicio 1 - Meses.AssemblyInfoInputs.cache
+C:\repo\Exercicio 1 - Meses\obj\Debug\netcoreapp3.1\Exercicio 1 - Meses.AssemblyInfo.cs
+C:\repo\Exercicio 1 - Meses\obj\Debug\netcoreapp3.1\Exercicio 1 - Meses.csproj.CoreCompileInputs.cache
+C:\repo\Exercicio 1 - Meses\obj\Debug\netcoreapp3.1\Exercicio 1 - Meses.dll
+C:\repo\Exercicio 1 - Meses\obj\Debug\netcoreapp3.1\Exercicio 1 - Meses.pdb
+C:\repo\Exercicio 1 - Meses\obj\Debug\netcoreapp3.1\Exercicio 1 - Meses.genruntimeconfig.cache
